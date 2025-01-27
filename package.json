@@ -26,7 +26,7 @@
     "@glimmer/util": "^0.92.3",
     "@glimmer/validator": "^0.92.3",
     "@glimmer/vm": "^0.92.3",
-    "@glimmer/wire-format": "^0.92.3",
+    "@glimmer/wire-format": "^0.94.1",
     "@nativescript/core": "~8.8.0",
     "@nativescript/theme": "^3.1.0",
     "ember-modifier": "^4.2.0",
