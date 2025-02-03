@@ -50,7 +50,7 @@
     "@nativescript/webpack": "^5.0.22",
     "babel-loader": "^9.2.1",
     "babel-plugin-ember-template-compilation": "^2.3.0",
-    "content-tag": "^2.0.1",
+    "content-tag": "^3.1.1",
     "decorator-transforms": "^2.1.0",
     "ember-cli-version-checker": "^5.1.2",
     "ember-resolver": "^13.0.2",
